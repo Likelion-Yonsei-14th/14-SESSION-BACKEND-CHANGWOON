@@ -1,8 +1,13 @@
-name	default issue template
-about	디폴트 템플릿입니다. 추후에는 feat, fix, chore등 기능별 이슈 템플릿을 따로 저장해두어도 좋습니다.
-title	[Prefix] 제목 작성
-labels	feat
-assignees	
+---
+name: Bug report
+about: Report a bug or unexpected behavior
+title: "[Bug] "
+labels: bug
+assignees: ""
+---
+
+## Description
+...
 🧩 Issue 요약
 어떤 작업인지 한 줄로 설명 ex) 상품 생성 API를 구현한다.
 🎯 작업 목적 (Why)
